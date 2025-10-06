@@ -1,2 +1,6 @@
-a=document.createElement("a")
-console.log(a)
+class user{
+constructor(name,price){
+    this.name=name;
+    this.price=price;
+}
+}
